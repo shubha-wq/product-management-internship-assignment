@@ -9,7 +9,6 @@ This repository contains my completed assignment, including container image vuln
 - ✅ Product requirements document
 - ✅ Low-fidelity wireframes
 
-📁 See folder: `problem-1-container-scan/`
 
 ---
 
@@ -18,7 +17,6 @@ This repository contains my completed assignment, including container image vuln
 - ✅ Used Kubescape to scan local Kubernetes cluster
 - ✅ Exported results in JSON format
 
-📁 See folder: `problem-2-k8s-scan/`
 
 ---
 
@@ -29,4 +27,3 @@ This repository contains my completed assignment, including container image vuln
 - ✅ Deployed on Kubernetes using 2 replicas
 - ✅ Exposed service via LoadBalancer
 
-📁 See folder: `problem-3-date-time-app/`
